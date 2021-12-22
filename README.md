@@ -11,6 +11,8 @@ The goal of this repo is to provide resources for the [Terraforms by Mathcastles
   - [On-chain Best Practices](#on-chain-best-practices)
   - [Current sub-community missions](#current-sub-community-missions)
   - [Project Directory](#project-directory)
+    - [Visualization Tools](#visualization-tools)
+    - [The Bots](#the-bots)
 
 
 -----
@@ -72,6 +74,8 @@ Sub-community projects are listed here for individuals who would like to discove
 
 ## Project Directory
 
+### Visualization Tools
+
 - https://github.com/uronsol/terraforms-characters-colors
   - Visualizes colors and character sets
   - https://terraforms.oolong.lol/search
@@ -80,3 +84,8 @@ Sub-community projects are listed here for individuals who would like to discove
   - Visualizes Terraforms metadata in 3D
   - Python
 
+### The Bots
+
+- https://github.com/adriendulong/listen-dream
+  - Twitter bot that tweets when a plot is terraformed
+  - https://twitter.com/terradream_bot
