@@ -57,7 +57,11 @@ Help wanted :)
 
 ## Terraforming
 
-Help wanted :)
+Basic Terraforming is avaible in `@astrostl`'s [Unofficial FAQ](https://docs.google.com/document/d/1e5qOhUCJx528HtDFDagy5r88IJK1LVKLYhd44weO7g4/edit)
+
+- https://docs.google.com/spreadsheets/d/1Uh1-bVoLarlGUbg-2QAAosLRazOzXzO8OvFMyTkiIeo/edit#gid=0
+  - Tool to help visualize terraforming plots
+  - Credit to `@RueLibbe`
 
 ## On-chain Best Practices
 
