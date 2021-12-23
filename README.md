@@ -80,11 +80,29 @@ Sub-community projects are listed here for individuals who would like to discove
   - Visualizes colors and character sets
   - https://terraforms.oolong.lol/search
   - JavaScript
+
+
 - https://github.com/uronsol/terraforms-plot-3d
   - Visualizes Terraforms metadata in 3D
   - Python
+
+
 - https://codepen.io/0x0112/pen/mdBMNPm
   - Drawing tool for a Terraform plot, simulated in a dream state
+  - Credit to `0x0112.eth`
+  - How to:
+    1. In a separate tab, load your plot in the token viewer (https://tokens.mathcastles.xyz/terraforms/token-html/531)
+    2. Right click the page, select "View Page Source" to view the HTML
+    3. Select all, then copy the HTML content
+    4. Paste the content into the HTML pane in codepen
+  - Paint Controls (via keyboard)
+    q - brush size
+    a - brush (controls cell height)
+    e - erase (must hold down e while "painting" to erase)
+    c - copy dream to clipboard
+
+Committing your dream
+  Once you've copied your dream to your clipboard, you can paste it into the `dream` field of the `commitDreamToCanvas` write function of the contract (done via Etherscan)
 
 ### The Bots
 
