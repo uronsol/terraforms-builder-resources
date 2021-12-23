@@ -83,6 +83,8 @@ Sub-community projects are listed here for individuals who would like to discove
 - https://github.com/uronsol/terraforms-plot-3d
   - Visualizes Terraforms metadata in 3D
   - Python
+- https://codepen.io/0x0112/pen/mdBMNPm
+  - Drawing tool for a Terraform plot, simulated in a dream state
 
 ### The Bots
 
