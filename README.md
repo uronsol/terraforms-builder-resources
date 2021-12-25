@@ -63,6 +63,11 @@ Basic Terraforming is avaible in `@astrostl`'s [Unofficial FAQ](https://docs.goo
   - Tool to help visualize terraforming plots
   - Credit to `@RueLibbe`
 
+- https://terraforms.oolong.lol/terraform
+  - On Web tool that allows you to take an image and turn it into the numbered output you'll need to enter for the daydream
+  - Note this tool is intended to help create a starting point for your art. Adjust the finer details.
+    - Can use the search function on https://terraforms.oolong.lol to determine what index corresponds to what color and character of your plot
+
 ## On-chain Best Practices
 
 Help wanted :)
@@ -85,6 +90,10 @@ Sub-community projects are listed here for individuals who would like to discove
   - https://terraforms.oolong.lol/search
   - JavaScript
 
+- https://github.com/davidhao3300/terraforms-viewer/
+  - Visualizes plots side by side using their 2D artwork
+  - Can move to levels and specific coordinates
+  - Credit goes to `@overdue123`
 
 - https://github.com/uronsol/terraforms-plot-3d
   - Visualizes Terraforms metadata in 3D
